@@ -1,6 +1,6 @@
 # Community Base Fixes
 
-[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3794706674?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=%23690000&link=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3794706674)](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3798582327?style=for-the-badge&logo=steam&label=Steam%20Workshop&color=%23690000&link=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D3798582327)](https://steamcommunity.com/sharedfiles/filedetails/?id=3798582327)
 
 ## Discord
 
@@ -10,10 +10,10 @@ Join the Discord for support and updates across our modding projects.
 
 ## Links
 
-- [GitHub Repository: Community Base Compats](https://github.com/CVO-Org/CBC_A3)
-- [Steam Workshop: Community Base Compats](https://steamcommunity.com/sharedfiles/filedetails/?id=3794706674)
+- [GitHub Repository: Community Base Fixes](https://github.com/CVO-Org/CBF_A3)
+- [Steam Workshop: Community Base Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=3798582327)
 
-Community Base Fixes (CBF_A3) is an attempt to unify  common fixes and more in single, community maintained mod.
+Community Base Fixes (CBF_A3) is an attempt to unify common fixes and more in a community maintained mod.
 
 ## Requirements
 

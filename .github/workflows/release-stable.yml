@@ -15,9 +15,9 @@
 name: Release Stable
 
 env:
-  FOLDER: '@CBC_A3'
+  FOLDER: '@CBF_A3'
   WORKSHOPID: '3794706674'
-  WORKSHOPNAME: 'CBC_A3'
+  WORKSHOPNAME: 'CBF_A3'
 
 on:
   release:

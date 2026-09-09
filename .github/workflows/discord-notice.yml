@@ -16,6 +16,6 @@ jobs:
           username: "CBC_A3 - Release Bot"
           avatar_url: ""
           content: "<@&1546542304091967629>"
-          footer_title: "CBC_A3 - Community Base Compats"
+          footer_title: "CBF_A3 - Community Base Fixes"
           footer_icon_url: ""
           footer_timestamp: true

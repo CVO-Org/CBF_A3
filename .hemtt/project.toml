@@ -1,11 +1,11 @@
 mainprefix = "x"     # Ideally, replace "~MAINPREFIX~" across the whole repo with your mod's mainprefix, example "t" (without the "")
-prefix = "cbc"             # Ideally, replace "~PREFIX~" across the whole repo with your mod's prefix, example "mod" (without the "") 
+prefix = "cbf"             # Ideally, replace "~PREFIX~" across the whole repo with your mod's prefix, example "mod" (without the "") 
 
-name = "Community Base Compats"
+name = "Community Base Fixes"
 
 [properties]
 author = "CBC Team"
-url = "https://github.com/CVO-Org/CBC_A3"
+url = "https://github.com/CVO-Org/CBF_A3"
 
 [binarize]
 # enabled = true # Default: true

@@ -1,7 +1,7 @@
 #define MAINPREFIX x
-#define PREFIX cbc
+#define PREFIX cbf
 
-#define PREFIX_BEAUTIFIED cbc
+#define PREFIX_BEAUTIFIED cbf
 
 
 #include "script_version.hpp"
