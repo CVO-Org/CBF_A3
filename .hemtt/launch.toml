@@ -1,0 +1,46 @@
+[default]
+workshop = [
+    "450814997", #CBA_A3
+    "3499977893" #ADT
+]
+
+[breach]
+extends = "default"
+workshop = [
+    "3283645995", #Breach - Rewrite
+    "3283642267", #Speshal Core
+    "463939057" #ACE3
+]
+
+[rnt]
+extends = "default"
+workshop = [
+    "1128145626" #Redd'n'Tank Vehicles
+]
+
+[fir_aws]
+extends = "default"
+workshop = [
+    "366425329" #FIR AWS (AirWeaponSystem)
+]
+
+[bwmod]
+extends = "default"
+workshop = [
+    "1200127537" #BWMod
+]
+
+[cfp]
+extends = "default"
+workshop = [
+    "1369691841", #Community Factions Project (CFP)
+    "497661914", #CUP Units
+    "541888371", #CUP Vehicles
+    "497660133" #CUP Weapons
+]
+
+[jbad]
+extends = "default"
+workshop = [
+    "520618345" #Jbad
+]

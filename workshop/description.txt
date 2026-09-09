@@ -1,0 +1,35 @@
+ [quote=someone, somewhere][i]Why cant we just have one cba compat mod to unite them all...[/i][/quote] 
+
+[h1]Support the Project[/h1]
+[img]https://i.imgur.com/3Qd4tiO.gif[/img]
+
+[h1]Community Base Compats[/h1]
+
+Community Base Compats (CBC_A3) is a collection of CBA compats for multiple different mod with the motivation to unify them all in a single mod.
+
+
+[h1]Supported Mods[/h1]
+CBC_A3 provides compatibility patches for the following mods:
+
+[list]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3283645995]Breach - Rewrite[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1128145626]Redd'n'Tank Vehicles[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=366425329]FIR AWS (AirWeaponSystem)[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1200127537]BWMod[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1369691841]Community Factions Project (CFP)[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=520618345]Jbad[/url]
+    [*] Vanilla Arma 3 + (c)DLCs
+[/list] 
+
+A full list can be found on Github.
+
+[h2]Links[/h2]
+[list]
+    [*] [url=https://discord.gg/ag4v6kxYAa]Zorn's and Andx's A3 Mods Discord[/url]
+    [*] [url=https://github.com/CVO-Org/CBC_A3/]CBC_A3 Github[/url]
+[/list]
+
+[h2]License:[/h2]
+[i]This project is released under the GNU General Public License v2.0.[/i]
+
+
