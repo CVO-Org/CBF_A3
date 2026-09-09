@@ -21,7 +21,8 @@ Community Base Fixes (CBF_A3) is an attempt to unify common fixes and more in a 
 
 ## Supported Mods
 
-CBF_A3 provides compatibility patches for the following mods:
+CBF_A3 provides fixes for the following mods:
+
 
 ## Support
 

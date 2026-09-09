@@ -9,7 +9,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"A3_Static_F_Sams_Radar_System_01","A3_Static_F_Sams_Radar_System_02"};
+        requiredAddons[] = {};
         authors[] = {"Andx"};
         // If any requiredAddons[] entry is missing, the entire config is silently ignored (RPT only) - useful for a compat mod (since Arma 3 2.14)
         skipWhenMissingDependencies = 1;

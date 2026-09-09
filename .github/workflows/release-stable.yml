@@ -17,7 +17,7 @@ name: Release Stable
 env:
   FOLDER: '@CBF_A3'
   WORKSHOPID: '3794706674'
-  WORKSHOPNAME: 'CBF_A3'
+  WORKSHOPNAME: 'Community Based Fixes'
 
 on:
   release:
