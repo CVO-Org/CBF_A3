@@ -8,4 +8,4 @@ Feel free to add yourself to this when creating a pull request, preferably inclu
 | ------------------ | ---------------------- | ------------------ |
 | OverlordZorn [CVO] | lordzorn1337@gmail.com | Maintainer         |
 | Andx [TTT]         |                        | Maintainer, Config |
-| tuntematonj        |                        | Wintermap Config   |
+| tuntematonjr       |                        | Wintermap Config   |
