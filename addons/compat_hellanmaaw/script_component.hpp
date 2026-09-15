@@ -1,4 +1,4 @@
-#define COMPONENT hellanmaaw
+#define COMPONENT compat_hellanmaaw
 #define COMPONENT_BEAUTIFIED Tweak - Hellanmaa
 
 #include "\x\cbf\addons\main\script_mod.hpp"

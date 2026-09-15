@@ -1,4 +1,4 @@
-#define COMPONENT ihantalaw
+#define COMPONENT compat_ihantalaw
 #define COMPONENT_BEAUTIFIED Tweak - Ihantala
 
 #include "\x\cbf\addons\main\script_mod.hpp"
