@@ -23,6 +23,9 @@ Community Base Fixes (CBF_A3) is an attempt to unify common fixes and more in a 
 
 CBF_A3 provides fixes for the following mods:
 
+- [Hellanmaa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1291778160) - Converts Rain to Snow
+- [Summa Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1598087521) - Converts Rain to Snow
+- [Ihantala Winter](https://steamcommunity.com/sharedfiles/filedetails/?id=1494127420) - Converts Rain to Snow
 
 ## Support
 
