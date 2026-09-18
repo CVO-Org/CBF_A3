@@ -7,5 +7,5 @@ Feel free to add yourself to this when creating a pull request, preferably inclu
 | Name               | eMail                  | Work               |
 | ------------------ | ---------------------- | ------------------ |
 | OverlordZorn [CVO] | lordzorn1337@gmail.com | Maintainer         |
-| andx [TTT]         |                        | Maintainer, Config |
-|                    |                        |                    |
+| Andx [TTT]         |                        | Maintainer, Config |
+| tuntematonjr       |                        | Wintermap Config   |
