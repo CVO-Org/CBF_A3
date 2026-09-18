@@ -15,7 +15,7 @@ tooltip         = "Community Base Fixes";
 tooltipOwned    = "Community Base Fixes Owned";                                                                                                          // Tool tip displayed when the mouse is left over, in the main menu
 overview        = "What is Community Base Fixes? It is a collection of simple fixes for a multitude of mods.";
 description     = "Bugtracker: https://github.com/CVO-Org/CBF_A3/issues";
-action          = "https://discord.gg/V37bRTnbb8/";                                                                                                // Website URL, that can accessed from the expansions menu 
+action          = "https://discord.gg/ag4v6kxYAa/";                                                                                                // Website URL, that can accessed from the expansions menu 
 actionName      = "Discord";                                                                                                                        // label of button/tooltip in extension menu
 
 overviewPicture = "img\logo_ca.paa";
